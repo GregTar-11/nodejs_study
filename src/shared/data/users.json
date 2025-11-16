@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "first_name": "Алексей",
+        "last_name": "Иванов",
+        "image_url": "https://example.com/images/alexey_ivanov.jpg",
+        "age": 28
+    },
+    {
+        "id": 2,
+        "first_name": "Елена",
+        "last_name": "Смирнова",
+        "image_url": "https://example.com/images/elena_smirnova.jpg",
+        "age": 34
+    },
+    {
+        "id": 3,
+        "first_name": "Дмитрий",
+        "last_name": "Козлов",
+        "image_url": "https://example.com/images/dmitry_kozlov.jpg",
+        "age": 45
+    },
+    {
+        "id": 4,
+        "first_name": "Мария",
+        "last_name": "Петрова",
+        "image_url": "https://example.com/images/maria_petrova.jpg",
+        "age": 22
+    },
+    {
+        "id": 5,
+        "first_name": "Сергей",
+        "last_name": "Волков",
+        "image_url": "https://example.com/images/sergey_volkov.jpg",
+        "age": 51
+    }
+]

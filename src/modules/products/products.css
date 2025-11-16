@@ -1,0 +1,10 @@
+main{
+    background-color: blueviolet;
+}
+
+.products-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fil,minmax(220px,1fr));
+    gap: 20px;
+    padding: 10px;
+}
